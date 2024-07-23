@@ -1,6 +1,6 @@
 # Sobre
 
-Esta aplicação consiste em uma API com Frontend para criar, atualizar e remover usuários.
+Esta aplicação consiste em uma API com Frontend para criar, atualizar e remover Tasks.
 
 ## Requsitos
 Você precisará das seguintes ferramentas para executar a aplicação:
